@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science @BZU
 ---------------------
 
-* 🌍  I'm based in Palestine
-* ✉️  You can contact me at [rasha.moon2018@gmail.com](mailto:rasha.moon2018@gmail.com)
+
 
 ### Skills
 
